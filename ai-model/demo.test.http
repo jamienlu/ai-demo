@@ -1,0 +1,5 @@
+### test
+GET http://localhost:10001/ai/chat?message=介绍下自己
+
+###
+GET http://localhost:10001/ai/stream/chat?message=小明4分钟能上楼梯，1分钟才滑下来，15分钟后关闭他能玩多少次
